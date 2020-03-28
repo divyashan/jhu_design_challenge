@@ -1,10 +1,34 @@
 .wrapper {
-	margin: 10%;
-	text-align: center;
+	margin: auto;
+	margin-top: 20%;
 }
 
 .centered {
 	margin-left: auto;
 	margin-right: auto;
-	width: 20%;
+	width: 40%;
+}
+
+.item-list {
+	margin: 0 auto;
+	width: 600px;
+}
+
+.square {
+  height: 100px;
+  width: 100px;
+  background-color: #555;
+}
+
+.item {
+	float: left;
+	margin: 3%;
+}
+
+.item-label {
+	text-align: center;
+}
+
+h2 { 
+	text-align: center;
 }
